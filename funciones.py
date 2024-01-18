@@ -51,6 +51,4 @@ resultado_division = dividir()
 if resultado_division is not None:
     print(f"Resultado de la división: {resultado_division}")
 
-resultado_division = dividir()
-if resultado_division is not None:
-    print(f"Resultado de la división: {resultado_division}")
+print("Programa ejecutado con exito")
