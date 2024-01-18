@@ -3,8 +3,8 @@ def sumar():
     n = int(input("Ingrese la cantidad de números a sumar: "))
     resultado = 0
     for _ in range(n):
-        numero = float(input("Ingrese un número: "))
-        resultado += numero
+        numeros = float(input("Ingrese un número: "))
+        resultado += numeros
     return resultado
 
 def restar():
