@@ -40,6 +40,9 @@ def dividir():
 resultado_suma = sumar()
 print(f"Resultado de la suma: {resultado_suma}")
 
+resultado_suma = sumar()
+print(f"Resultado de la suma: {resultado_suma}")
+
 resultado_resta = restar()
 if resultado_resta is not None:
     print(f"Resultado de la resta: {resultado_resta}")
